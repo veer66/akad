@@ -7,6 +7,12 @@ at Kasetsart Univerity for 7 days.
 
 ### Prerequisite 
 * Clojure (clj command line)
+* Obtain Akad by 
+
+```
+git clone https://github.com/veer66/akad.git
+```
+
 * Obtain API-KEY from https://darksky.net/dev/register
 * Put API-KEY in config.edn
 
