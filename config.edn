@@ -1,0 +1,10 @@
+{:api-key "You need to get it from https://darksky.net/dev/register"
+ :lat 13.8450139
+ :lon 100.5663166
+ :days-back 7
+ :zone "Asia/Bangkok"
+ :prefix "https://api.darksky.net/forecast/"
+ :units "si"
+ :db-path "akad.db"
+ :map-name "forecast"
+ :default-hour 12}
